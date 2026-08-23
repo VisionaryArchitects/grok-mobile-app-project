@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hermes",
+      "hasCanvas": false,
+      "bodyTextLen": 432,
+      "bodyTextHash": "7f0b2fdcfa51332ab548c696a159a0a5b702e8752b287a0728cb0dd265f3bcf3",
+      "bodyTextPrefix": "9:41 LTE Hermes H Hermes 5:00 PM Hermes 3 8B · Ready. Bot Mode i",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hermes",
+      "hasCanvas": false,
+      "bodyTextLen": 423,
+      "bodyTextHash": "b783cb8142f9a4ea607db685ea793145b3839c15dd8d33ef4b2f14e629816bfb",
+      "bodyTextPrefix": "Hermes H Hermes 5:00 PM Hermes 3 8B · Ready. Bot Mode is one tap",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

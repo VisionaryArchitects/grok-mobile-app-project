@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Hermes">
+  <rect width="32" height="32" rx="8" fill="#0c0c0e"/>
+  <path fill="#3dd6c6" d="M8 8h4v6h8V8h4v16h-4v-6h-8v6H8z"/>
+  <path fill="#3dd6c6" d="M16 6 18 8 16 10 14 8Z"/>
+</svg>
